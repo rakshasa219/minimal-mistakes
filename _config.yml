@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "使用minimal-mistake主题的Jekyll网站"
+title                    : "陈彦华个人网站"
 title_separator          : "："
 name                     : "Rakshasa"
-description              : "使用Jekyll搭建的网站d"
+description              : "使用Jekyll搭建的网站"
 url                      : "https://nfunm171043007.gitee.io"
 baseurl                  : "/minimal-mistakes"
 repository               : "Rakshasa/minimal-mistakes"
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "陈彦华"
+  avatar           : "images/avatar.jpg"
+  bio              : "中山大学南方学院 文学与传媒学院 网络新媒体专业在读学生"
+  location         : "广东-广州"
+  email            : "651571378@qq.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -113,11 +113,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/rakshasa219"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "rakshasa219"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
