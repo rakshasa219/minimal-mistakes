@@ -1,12 +1,15 @@
 # main links
  main:
+   - title: "简书"
+     url: https://www.jianshu.com/u/6285f61a96e4
+   - title: "SVG制作"
+     url: /SVG/
+   - title: "界面设计"
+     url: /UI-Design/
+   - title: "平面设计"
+     url: /graphic-design/
+   - title: "关于"
+     url: /About/
    - title: "Quick-Start Guide"
      url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "Sample Posts"
-     url: /year-archive/
-   - title: "Sample Collections"
-     url: /collection-archive/
-   - title: "Sitemap"
-     url: /sitemap/
+
