@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast_mine" # "air", "aqua", "contrast", "dark", 
 locale                   : "zh-CN"
 title                    : "陈彦华个人网站"
 title_separator          : "："
-name                     : "Rakshasa"
+name                     : "陈彦华"
 description              : "使用Jekyll搭建的网站"
 url                      : "https://nfunm171043007.gitee.io"
 baseurl                  : "/minimal-mistakes"
@@ -191,7 +191,7 @@ kramdown:
 
 # Collections
 conllections:
-  _svg:
+  svg:
     output: ture
     permalink: /:collection/:path/
     
