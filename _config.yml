@@ -219,8 +219,9 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      related: true
+      read_time: true
       
-    
 # Sass/SCSS
 sass:
   sass_dir: _sass
