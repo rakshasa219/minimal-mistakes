@@ -191,7 +191,7 @@ kramdown:
 
 # Collections
 conllections:
-  svg:
+  _svg:
     output: ture
     permalink: /:collection/:path/
     
