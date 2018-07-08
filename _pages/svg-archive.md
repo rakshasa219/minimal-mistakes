@@ -2,12 +2,11 @@
 layout: archive
 title: "SVG"
 permalink: /svg/
-author_profile: ture
+author_profile: false
 ---
 
 {% include base_path %}
-{% for category in group_names %}
-  {% for post in site.svg %}
-    {% include archive-single.html %}
-  {% endfor %}
+
+{% for post in site.svg %}
+  {% include archive-single.html %}
 {% endfor %}

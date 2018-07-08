@@ -136,7 +136,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - _svg
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -197,7 +196,6 @@ conllections:
     permalink: /:collection/:path/
     
 
-
 # Defaults
 defaults:
   # _posts
@@ -220,8 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      related: true
-      read_time: true
+      
       
 # Sass/SCSS
 sass:
