@@ -7,8 +7,6 @@ author_profile: ture
 
 {% include base_path %}
 
-{% for item in site.svg %}
-  
 {% for post in site.svg %}
   {% include archive-single.html %}
 {% endfor %}
