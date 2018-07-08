@@ -11,10 +11,10 @@ $lighter-gray               : #0019AE !default;
 
 $body-color                 : #fff !default;
 $background-color           : #6E7376 !default;
-$code-background-color      : $lighter-gray !default;
-$code-background-color-dark : $light-gray !default;
-$text-color                 : $dark-gray !default;
-$border-color               : $lighter-gray !default;
+$code-background-color      : $darker-gray !default; 
+$code-background-color-dark : $light-gray !default; /*页脚字体*/
+$text-color                 : $dark-gray !default;  /*字体*/
+$border-color               : $lighter-gray !default; /*页脚*/
 
 $primary-color              : $gray !default;
 $success-color              : #27ae60 !default;
