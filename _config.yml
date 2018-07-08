@@ -23,6 +23,7 @@ description              : "使用Jekyll搭建的网站"
 url                      : "https://nfunm171043007.gitee.io"
 baseurl                  : "/minimal-mistakes"
 repository               : "Rakshasa/minimal-mistakes"
++affiliation: "使用jeklly搭建的期末网站作品，由 <a href = 'http://www.nfu.edu.cn/'>中山大学南方学院</a> <a href = 'http://newmedia.nfu.edu.cn/zh/'>网络与新媒体</a> <a href='https://nfunm171043007.gitee.io/resume/'>陈彦华</a> 创建  "
 teaser                   : "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
