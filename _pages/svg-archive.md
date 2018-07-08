@@ -10,3 +10,4 @@ author_profile: ture
 {% for post in site.svg %}
   {% include archive-single.html %}
 {% endfor %}
+{% endfor %}
