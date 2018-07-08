@@ -190,7 +190,7 @@ kramdown:
 
 
 # Collections
-conllections:
+collections:
   svg:
     output: ture
     permalink: /:collection/:path/
