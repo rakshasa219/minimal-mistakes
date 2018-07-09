@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "陈彦华"
   avatar           : "images/avatar.jpg"
-  bio              : "中山大学南方学院 文学与传媒学院 网络新媒体专业在读学生"
+  bio              : "中大南方文传学院 网络新媒体专业在读学生"
   location         : "广东-广州"
-  email            : "651571378@qq.com"
+  email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,11 +114,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/rakshasa219"
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "rakshasa219"
+  instagram        : 
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
