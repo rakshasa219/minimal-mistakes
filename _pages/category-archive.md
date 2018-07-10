@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /design/
-title: "以分类展示文章"
+title: "design"
 author_profile: true
 ---
 
