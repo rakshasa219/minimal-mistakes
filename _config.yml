@@ -267,7 +267,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-permalink: /:design/:title/
+  permalink: /:design/:title/
   
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
