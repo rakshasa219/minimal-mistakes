@@ -13,3 +13,24 @@
    - title: "Quick-Start Guide"
      url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
+docs:
+   - title: SVG制作
+     children:
+       - title: "认识SVG"
+         url: " 文章的URL "
+       - title: "在文章中插入SVG格式图像"
+         url: " 文章的URL "
+
+   - title: 平面设计
+     children:
+       - title: "如何设置宽页面"
+         url: " 文章的URL "
+       - title: "如何设置宽页面"
+         url: " 文章的URL "
+ 
+   - title: 界面设计
+     children:
+       - title: "如何增加affiliation 所属单位信息"
+         url: " 文章的URL " 
+       - title: "如何增加affiliation 所属单位信息"
+         url: " 文章的URL " 
