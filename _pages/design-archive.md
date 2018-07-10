@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /design/
-title: "desig"
+title: "design"
 author_profile: true
 ---
 
