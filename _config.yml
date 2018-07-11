@@ -210,6 +210,15 @@ defaults:
       comments: true
       share: true
       related: true
+      
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+        
   # _svg
   - scope:
       path: ""
