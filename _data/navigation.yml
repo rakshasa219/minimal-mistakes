@@ -17,20 +17,24 @@ docs:
    - title: SVG制作
      children:
        - title: "认识SVG"
-         url: " 文章的URL "
+         url: " https://nfunm171043007.gitee.io/minimal-mistakes/svg/2018-06-12-svg-01/ "
        - title: "在文章中插入SVG格式图像"
-         url: " 文章的URL "
-
+         url: " https://nfunm171043007.gitee.io/minimal-mistakes/svg/2018-07-05-svg-02/ "
+       - title: "制作一个svg动图"
+         url: " https://nfunm171043007.gitee.io/minimal-mistakes/svg/2018-07-05-svg-03/ "
    - title: 平面设计
      children:
-       - title: "如何设置宽页面"
-         url: " 文章的URL "
-       - title: "如何设置宽页面"
-         url: " 文章的URL "
- 
+       - title: "网页色彩搭配知识"
+         url: " https://nfunm171043007.gitee.io/minimal-mistakes/design/graphic-01/ "
+       - title: "为文章页头添加图片"
+         url: " https://nfunm171043007.gitee.io/minimal-mistakes/design/graphic-02/ "
+       - title: "自行更改自己网页的主题"
+         url: " https://nfunm171043007.gitee.io/minimal-mistakes/design/graphic-03/ "
    - title: 界面设计
      children:
-       - title: "如何增加affiliation 所属单位信息"
-         url: " 文章的URL " 
-       - title: "如何增加affiliation 所属单位信息"
-         url: " 文章的URL " 
+       - title: "如何为页面添加面包屑导航"
+         url: " https://nfunm171043007.gitee.io/minimal-mistakes/design/interface-01/ " 
+       - title: "开启搜索栏"
+         url: " https://nfunm171043007.gitee.io/minimal-mistakes/design/interface-02/ " 
+       - title: "一些不错的软件界面设计例子"
+         url: " https://nfunm171043007.gitee.io/minimal-mistakes/design/interface-03/ " 
